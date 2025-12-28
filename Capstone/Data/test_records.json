@@ -1,0 +1,204 @@
+[
+  {
+   "patient_id": "S001",
+   "name": "Michael Lee",
+   "date_of_birth": "1963-03-22",
+   "gender": "Male",
+   "insurance_policy_id": "POL1020",
+   "diagnosis_codes": [
+     "I48.91"
+   ],
+   "procedure_codes": [
+     "99214"
+   ],
+   "date_of_service": "2025-05-13",
+   "provider_id": "PRV006",
+   "provider_specialty": "Cardiology",
+   "location": "San Diego, CA",
+   "billed_amount": 3000.0,
+   "preauthorization_required": true,
+   "preauthorization_obtained": true
+ },
+ {
+   "patient_id": "S002",
+   "name": "Liam Patel",
+   "date_of_birth": "1988-10-09",
+   "gender": "Male",
+   "insurance_policy_id": "POL1001",
+   "diagnosis_codes": [
+     "K21.9"
+   ],
+   "procedure_codes": [
+     "45378"
+   ],
+   "date_of_service": "2025-05-16",
+   "provider_id": "PRV007",
+   "provider_specialty": "Gastroenterology",
+   "location": "Seattle, WA",
+   "billed_amount": 5200.0,
+   "preauthorization_required": true,
+   "preauthorization_obtained": true
+ },
+ {
+   "patient_id": "S003",
+   "name": "Emily Davis",
+   "date_of_birth": "1997-04-18",
+   "gender": "Female",
+   "insurance_policy_id": "POL1012",
+   "diagnosis_codes": [
+     "F32.9"
+   ],
+   "procedure_codes": [
+     "85025"
+   ],
+   "date_of_service": "2025-05-18",
+   "provider_id": "PRV008",
+   "provider_specialty": "Psychiatry",
+   "location": "Boston, MA",
+   "billed_amount": 160.0,
+   "preauthorization_required": true,
+   "preauthorization_obtained": true
+ }
+,
+  {
+    "patient_id": "S004",
+    "name": "Lucas Adams",
+    "date_of_birth": "1948-01-18",
+    "gender": "Male",
+    "insurance_policy_id": "POL1001",
+    "diagnosis_codes": [
+      "I10"
+    ],
+    "procedure_codes": [
+      "93000"
+    ],
+    "date_of_service": "2025-05-07",
+    "provider_id": "PRV009",
+    "provider_specialty": "Cardiology",
+    "location": "Denver, CO",
+    "billed_amount": 4200.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  },
+  {
+    "patient_id": "S005",
+    "name": "Grace Taylor",
+    "date_of_birth": "1983-06-02",
+    "gender": "Female",
+    "insurance_policy_id": "POL1005",
+    "diagnosis_codes": [
+      "I20.0"
+    ],
+    "procedure_codes": [
+      "93000"
+    ],
+    "date_of_service": "2025-05-09",
+    "provider_id": "PRV010",
+    "provider_specialty": "Cardiology",
+    "location": "Austin, TX",
+    "billed_amount": 4100.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  }
+  ,
+  {
+    "patient_id": "S006",
+    "name": "Emma Watson",
+    "date_of_birth": "1990-09-15",
+    "gender": "Female",
+    "insurance_policy_id": "POL1021",
+    "diagnosis_codes": [
+      "E11.9"
+    ],
+    "procedure_codes": [
+      "93000"
+    ],
+    "date_of_service": "2025-05-11",
+    "provider_id": "PRV004",
+    "provider_specialty": "Endocrinology",
+    "location": "New York, NY",
+    "billed_amount": 95.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  },
+  {
+    "patient_id": "S007",
+    "name": "Oliver Brown",
+    "date_of_birth": "1988-07-11",
+    "gender": "Male",
+    "insurance_policy_id": "POL1018",
+    "diagnosis_codes": [
+      "G43.909"
+    ],
+    "procedure_codes": [
+      "99213"
+    ],
+    "date_of_service": "2025-05-15",
+    "provider_id": "PRV006",
+    "provider_specialty": "Psychiatry",
+    "location": "Seattle, WA",
+    "billed_amount": 150.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  },
+  {
+    "patient_id": "S008",
+    "name": "Evan Johnson",
+    "date_of_birth": "1984-03-19",
+    "gender": "Male",
+    "insurance_policy_id": "POL1026",
+    "diagnosis_codes": [
+      "J44.9"
+    ],
+    "procedure_codes": [
+      "93000"
+    ],
+    "date_of_service": "2025-06-01",
+    "provider_id": "PRV011",
+    "provider_specialty": "Pulmonology",
+    "location": "San Francisco, CA",
+    "billed_amount": 1200.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  },
+  {
+    "patient_id": "S009",
+    "name": "Noah Kim",
+    "date_of_birth": "1994-10-11",
+    "gender": "Male",
+    "insurance_policy_id": "POL1009",
+    "diagnosis_codes": [
+      "G43.909"
+    ],
+    "procedure_codes": [
+      "36415"
+    ],
+    "date_of_service": "2025-06-02",
+    "provider_id": "PRV012",
+    "provider_specialty": "Neurology",
+    "location": "Dallas, TX",
+    "billed_amount": 450.0,
+    "preauthorization_required": true,
+    "preauthorization_obtained": true
+  },
+  {
+    "patient_id": "S010",
+    "name": "Emily Brooks",
+    "date_of_birth": "1982-02-27",
+    "gender": "Female",
+    "insurance_policy_id": "POL1012",
+    "diagnosis_codes": [
+      "G43.909"
+    ],
+    "procedure_codes": [
+      "93000"
+    ],
+    "date_of_service": "2025-06-03",
+    "provider_id": "PRV013",
+    "provider_specialty": "Neurology",
+    "location": "Phoenix, AZ",
+    "billed_amount": 2750.0,
+    "preauthorization_required": false,
+    "preauthorization_obtained": false
+  }
+]

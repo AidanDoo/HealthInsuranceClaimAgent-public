@@ -1,0 +1,846 @@
+[
+    {
+      "policy_id": "POL1001",
+      "plan_name": "Essential Care 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "I20.0",
+            "M54.5"
+          ],
+          "age_range": [
+            72,
+            82
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Hemoglobin A1c test covered for I20.0, M54.5 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1002",
+      "plan_name": "MedPrime EPO 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "G43.909",
+            "N39.0"
+          ],
+          "age_range": [
+            8,
+            53
+          ],
+          "gender": "Female",
+          "requires_preauthorization": false,
+          "notes": "Venipuncture covered for G43.909, N39.0 cases."
+        },
+        {
+          "procedure_code": "70450",
+          "covered_diagnoses": [
+            "N39.0",
+            "I48.91"
+          ],
+          "age_range": [
+            55,
+            65
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "CT scan of head without contrast covered for N39.0, I48.91 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1003",
+      "plan_name": "SmartCare Plan Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "N39.0",
+            "J44.9"
+          ],
+          "age_range": [
+            82,
+            92
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for N39.0, J44.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1004",
+      "plan_name": "CareFlex PPO Max",
+      "covered_procedures": [
+        {
+          "procedure_code": "45378",
+          "covered_diagnoses": [
+            "I10"
+          ],
+          "age_range": [
+            68,
+            78
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Diagnostic colonoscopy covered for I10 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1005",
+      "plan_name": "Silver PPO Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "J44.9"
+          ],
+          "age_range": [
+            24,
+            40
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "ECG with interpretation and report covered for J44.9 cases."
+        },
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "E11.9"
+          ],
+          "age_range": [
+            1,
+            76
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "Hemoglobin A1c test covered for E11.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1006",
+      "plan_name": "CareFlex PPO 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "E11.9",
+            "F32.9"
+          ],
+          "age_range": [
+            8,
+            46
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "ECG with interpretation and report covered for E11.9, F32.9 cases."
+        },
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "I48.91",
+            "F32.9"
+          ],
+          "age_range": [
+            2,
+            21
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Venipuncture covered for I48.91, F32.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1007",
+      "plan_name": "Essential Care Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "N39.0"
+          ],
+          "age_range": [
+            28,
+            79
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Complete blood count (CBC) covered for N39.0 cases."
+        },
+        {
+          "procedure_code": "93010",
+          "covered_diagnoses": [
+            "N39.0"
+          ],
+          "age_range": [
+            1,
+            70
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "ECG interpretation only covered for N39.0 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1008",
+      "plan_name": "Wellness Plus 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "N39.0"
+          ],
+          "age_range": [
+            32,
+            67
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Venipuncture covered for N39.0 cases."
+        },
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "K21.9"
+          ],
+          "age_range": [
+            48,
+            66
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for K21.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1009",
+      "plan_name": "Platinum Advantage Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "G43.909"
+          ],
+          "age_range": [
+            18,
+            49
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Venipuncture covered for G43.909 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1010",
+      "plan_name": "Silver PPO 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "I48.91",
+            "I20.0"
+          ],
+          "age_range": [
+            18,
+            28
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Hemoglobin A1c test covered for I48.91, I20.0 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1011",
+      "plan_name": "Value HMO 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "F32.9",
+            "G43.909"
+          ],
+          "age_range": [
+            34,
+            74
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Complete blood count (CBC) covered for F32.9, G43.909 cases."
+        },
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "J44.9"
+          ],
+          "age_range": [
+            29,
+            43
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Venipuncture covered for J44.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1012",
+      "plan_name": "Wellness Plus 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "E11.9"
+          ],
+          "age_range": [
+            60,
+            70
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Complete blood count (CBC) covered for E11.9 cases."
+        },
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "I10",
+            "G43.909"
+          ],
+          "age_range": [
+            2,
+            33
+          ],
+          "gender": "Female",
+          "requires_preauthorization": false,
+          "notes": "ECG with interpretation and report covered for I10, G43.909 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1013",
+      "plan_name": "Silver PPO 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "I10",
+            "E11.9"
+          ],
+          "age_range": [
+            13,
+            82
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for I10, E11.9 cases."
+        },
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "J44.9",
+            "E11.9"
+          ],
+          "age_range": [
+            52,
+            79
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Hemoglobin A1c test covered for J44.9, E11.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1014",
+      "plan_name": "Silver PPO Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "M54.5",
+            "I20.0"
+          ],
+          "age_range": [
+            18,
+            47
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Complete blood count (CBC) covered for M54.5, I20.0 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1015",
+      "plan_name": "Silver PPO 5000",
+      "covered_procedures": [
+        {
+          "procedure_code": "70450",
+          "covered_diagnoses": [
+            "G43.909",
+            "I20.0"
+          ],
+          "age_range": [
+            8,
+            18
+          ],
+          "gender": "Female",
+          "requires_preauthorization": true,
+          "notes": "CT scan of head without contrast covered for G43.909, I20.0 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1016",
+      "plan_name": "Family Shield Max",
+      "covered_procedures": [
+        {
+          "procedure_code": "71020",
+          "covered_diagnoses": [
+            "E11.9"
+          ],
+          "age_range": [
+            55,
+            88
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Chest X-ray, 2 views covered for E11.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1017",
+      "plan_name": "Family Shield 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "70450",
+          "covered_diagnoses": [
+            "E11.9"
+          ],
+          "age_range": [
+            28,
+            78
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "CT scan of head without contrast covered for E11.9 cases."
+        },
+        {
+          "procedure_code": "93010",
+          "covered_diagnoses": [
+            "I20.0",
+            "I10"
+          ],
+          "age_range": [
+            16,
+            47
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "ECG interpretation only covered for I20.0, I10 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1018",
+      "plan_name": "CareFlex PPO 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "M54.5"
+          ],
+          "age_range": [
+            11,
+            27
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Venipuncture covered for M54.5 cases."
+        },
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "G43.909"
+          ],
+          "age_range": [
+            24,
+            70
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for G43.909 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1019",
+      "plan_name": "CareFlex PPO 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "99214",
+          "covered_diagnoses": [
+            "K21.9"
+          ],
+          "age_range": [
+            10,
+            20
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, moderate complexity covered for K21.9 cases."
+        },
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "E11.9",
+            "N39.0"
+          ],
+          "age_range": [
+            44,
+            77
+          ],
+          "gender": "Female",
+          "requires_preauthorization": true,
+          "notes": "Hemoglobin A1c test covered for E11.9, N39.0 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1020",
+      "plan_name": "Gold HMO Max",
+      "covered_procedures": [
+        {
+          "procedure_code": "99214",
+          "covered_diagnoses": [
+            "I10",
+            "I48.91"
+          ],
+          "age_range": [
+            27,
+            58
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, moderate complexity covered for I10, I48.91 cases."
+        },
+        {
+          "procedure_code": "71020",
+          "covered_diagnoses": [
+            "I48.91"
+          ],
+          "age_range": [
+            66,
+            76
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Chest X-ray, 2 views covered for I48.91 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1021",
+      "plan_name": "Gold HMO 5000",
+      "covered_procedures": [
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "I10",
+            "E11.9"
+          ],
+          "age_range": [
+            35,
+            85
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "ECG with interpretation and report covered for I10, E11.9 cases."
+        },
+        {
+          "procedure_code": "70450",
+          "covered_diagnoses": [
+            "I20.0",
+            "I48.91"
+          ],
+          "age_range": [
+            18,
+            71
+          ],
+          "gender": "Female",
+          "requires_preauthorization": false,
+          "notes": "CT scan of head without contrast covered for I20.0, I48.91 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1022",
+      "plan_name": "CareFlex PPO 5000",
+      "covered_procedures": [
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "M54.5",
+            "F32.9"
+          ],
+          "age_range": [
+            11,
+            63
+          ],
+          "gender": "Female",
+          "requires_preauthorization": false,
+          "notes": "ECG with interpretation and report covered for M54.5, F32.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1023",
+      "plan_name": "Platinum Advantage 1000",
+      "covered_procedures": [
+        {
+          "procedure_code": "71020",
+          "covered_diagnoses": [
+            "M54.5"
+          ],
+          "age_range": [
+            48,
+            75
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Chest X-ray, 2 views covered for M54.5 cases."
+        },
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "E11.9"
+          ],
+          "age_range": [
+            50,
+            80
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "Complete blood count (CBC) covered for E11.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1024",
+      "plan_name": "Value HMO Max",
+      "covered_procedures": [
+        {
+          "procedure_code": "71020",
+          "covered_diagnoses": [
+            "I48.91"
+          ],
+          "age_range": [
+            54,
+            66
+          ],
+          "gender": "Female",
+          "requires_preauthorization": true,
+          "notes": "Chest X-ray, 2 views covered for I48.91 cases."
+        },
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "K21.9",
+            "I48.91"
+          ],
+          "age_range": [
+            31,
+            65
+          ],
+          "gender": "Male",
+          "requires_preauthorization": false,
+          "notes": "Complete blood count (CBC) covered for K21.9, I48.91 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1025",
+      "plan_name": "SmartCare Plan 5000",
+      "covered_procedures": [
+        {
+          "procedure_code": "45378",
+          "covered_diagnoses": [
+            "I10",
+            "K21.9"
+          ],
+          "age_range": [
+            69,
+            79
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "Diagnostic colonoscopy covered for I10, K21.9 cases."
+        },
+        {
+          "procedure_code": "36415",
+          "covered_diagnoses": [
+            "M54.5"
+          ],
+          "age_range": [
+            20,
+            62
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "Venipuncture covered for M54.5 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1026",
+      "plan_name": "Gold HMO Plus",
+      "covered_procedures": [
+        {
+          "procedure_code": "93000",
+          "covered_diagnoses": [
+            "J44.9",
+            "N39.0"
+          ],
+          "age_range": [
+            39,
+            75
+          ],
+          "gender": "Male",
+          "requires_preauthorization": true,
+          "notes": "ECG with interpretation and report covered for J44.9, N39.0 cases."
+        },
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "M54.5",
+            "K21.9"
+          ],
+          "age_range": [
+            36,
+            47
+          ],
+          "gender": "Female",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for M54.5, K21.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1027",
+      "plan_name": "SmartCare Plan 5000",
+      "covered_procedures": [
+        {
+          "procedure_code": "99214",
+          "covered_diagnoses": [
+            "M54.5"
+          ],
+          "age_range": [
+            2,
+            80
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Outpatient visit, established patient, moderate complexity covered for M54.5 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1028",
+      "plan_name": "SmartCare Plan Max",
+      "covered_procedures": [
+        {
+          "procedure_code": "85025",
+          "covered_diagnoses": [
+            "M54.5",
+            "F32.9"
+          ],
+          "age_range": [
+            18,
+            45
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Complete blood count (CBC) covered for M54.5, F32.9 cases."
+        },
+        {
+          "procedure_code": "99214",
+          "covered_diagnoses": [
+            "K21.9",
+            "G43.909"
+          ],
+          "age_range": [
+            29,
+            46
+          ],
+          "gender": "Female",
+          "requires_preauthorization": true,
+          "notes": "Outpatient visit, established patient, moderate complexity covered for K21.9, G43.909 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1029",
+      "plan_name": "Value HMO 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "70450",
+          "covered_diagnoses": [
+            "F32.9",
+            "E11.9"
+          ],
+          "age_range": [
+            0,
+            24
+          ],
+          "gender": "Any",
+          "requires_preauthorization": true,
+          "notes": "CT scan of head without contrast covered for F32.9, E11.9 cases."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL1030",
+      "plan_name": "Platinum Advantage 2500",
+      "covered_procedures": [
+        {
+          "procedure_code": "83036",
+          "covered_diagnoses": [
+            "M54.5",
+            "K21.9"
+          ],
+          "age_range": [
+            34,
+            44
+          ],
+          "gender": "Any",
+          "requires_preauthorization": false,
+          "notes": "Hemoglobin A1c test covered for M54.5, K21.9 cases."
+        },
+        {
+          "procedure_code": "99213",
+          "covered_diagnoses": [
+            "I48.91"
+          ],
+          "age_range": [
+            16,
+            56
+          ],
+          "gender": "Female",
+          "requires_preauthorization": true,
+          "notes": "Outpatient visit, established patient, ~15 mins covered for I48.91 cases."
+        }
+      ]
+    }
+  ]

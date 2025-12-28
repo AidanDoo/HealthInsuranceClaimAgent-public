@@ -1,0 +1,27 @@
+{
+    "CPT": {
+      "93000": "Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",
+      "99213": "Office or outpatient visit for an established patient, typically 20-29 minutes",
+      "70450": "CT scan of the head or brain without contrast material",
+      "83036": "Hemoglobin glycosylated A1c test",
+      "93010": "ECG interpretation and reporting of a routine ECG with atleast 12 leads",
+      "99214": "Office visit for established patient with moderate complexity",
+      "71020": "Chest X-ray, two views, frontal and lateral",
+      "36415": "Collection of venous blood by venipuncture",
+      "85025": "Complete blood count (CBC) with automated differential",
+      "45378": "Diagnostic colonoscopy including collection of specimens"
+    },
+    "ICD10": {
+      "I10": "Essential (primary) hypertension",
+      "E11.9": "Type 2 diabetes mellitus without complications",
+      "G43.909": "Migraine, unspecified, not intractable, without status migrainosus",
+      "I20.0": "Unstable angina",
+      "I48.91": "Unspecified atrial fibrillation",
+      "J44.9": "Chronic obstructive pulmonary disease, unspecified",
+      "K21.9": "Gastro-esophageal reflux disease without esophagitis",
+      "M54.5": "Low back pain, also known as lumbago",
+      "N39.0": "Urinary tract infection, site of infection not specified",
+      "F32.9": "Major depressive disorder, single episode, unspecified"
+    }
+  }
+  
