@@ -10,4 +10,8 @@ A React-style agent that:
 - Used LangGraph to manage the workflow
 - Created tools for the agent to use when generating responses
 - Achieved over 80% precision and recall
+### Inputs
+[validation_records](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/validation_records.json)
+### Result
+[validation_reference_results.csv](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/validation_reference_results.csv)
 Unfortunately, this project was created in a secure Databricks environment, which means it can no longer run.
