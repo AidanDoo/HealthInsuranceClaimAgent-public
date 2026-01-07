@@ -11,9 +11,9 @@ A React-style agent that:
 - Created tools for the agent to use when generating responses
 - Achieved over 80% precision and recall
 ### Inputs
-[validation_records](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/validation_records.json)
+[test_records.json](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/test_records.json)
 ### Result
-[validation_reference_results.csv](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/validation_reference_results.csv) 
+[submission.csv](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/submission.csv) 
 
 Thanks to Optum Tech University and AI Dojo for providing the curriculum to build this agent.
 
