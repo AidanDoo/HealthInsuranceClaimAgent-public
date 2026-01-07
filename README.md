@@ -15,5 +15,6 @@ A React-style agent that:
 ### Result
 [validation_reference_results.csv](https://github.com/AidanDoo/HealthInsuranceClaimAgent-public/blob/main/Capstone/Data/validation_reference_results.csv) 
 
+### Thanks to Optum Tech University and AI Dojo for providing the curriculum to build this agent.
 
 ### Unfortunately, this project was created in a secure Databricks environment, which means it can no longer run.
