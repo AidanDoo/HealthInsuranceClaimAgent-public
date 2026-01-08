@@ -7,7 +7,8 @@ A React-style agent that:
 - Evaluated arguments against the policies
 - Made clear, explainable decisions for approvals or routes for review
 ### Highlights
-- Used LangGraph to manage the workflow
+- Used LangGraph to manage the workflow, with engineered prompts
+- Designed a multi-stage prompt architecture with few-shot learning to automate checks against medical standards
 - Created tools for the agent to use when generating responses
 - Achieved over 80% precision and recall
 ### Inputs
