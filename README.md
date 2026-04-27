@@ -1,7 +1,7 @@
 # Healthcare Insurance Claim Approval Agent 
 ## A Healthcare Insurance Claim Approval Agent that automates claim adjudication by using LLM reasoning and data validation.
 ### What was created?
-A React-style agent that:
+A ReAct-style agent that:
 - Summarized patient records
 - Summarized policies
 - Evaluated arguments against the policies
